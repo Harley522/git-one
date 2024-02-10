@@ -5,5 +5,6 @@ int main(){
   cout << "hello world";
   cout << "bye world";
 
-   int x = 1;
+  int x = 1;
+  int y = 2;
 }
