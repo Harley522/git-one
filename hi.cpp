@@ -11,5 +11,6 @@ int main(){
   int y = 4;
   int z = 0;
   int a = 0;
+  int b = 999;
 
 }
