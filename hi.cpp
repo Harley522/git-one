@@ -6,6 +6,6 @@ int main(){
   cout << "bye world";
   cout << "conflict";
 
-  int x = 1;
-  int y = 2;
+  int x = 2;
+  int y = 4;
 }
