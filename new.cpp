@@ -2,5 +2,5 @@
 using namespace std;
 
 class haha(){
-  cout << "hihi";
+  int a = 10;
 };
